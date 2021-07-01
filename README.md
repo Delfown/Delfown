@@ -4,4 +4,4 @@
 - Made servers for SAMP, Counter Strike, Minecraft and other game
 - I do a little website design :)
 - I would be grateful for any help in my future projects :
-// -- Goog Luck to everyone reading this. -- //
+- // -- Goog Luck to everyone reading this. -- //
